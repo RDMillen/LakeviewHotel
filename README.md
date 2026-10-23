@@ -3,6 +3,8 @@
 A JetBrains Academy course (PyCharm) that takes students from a first Flask route to a hotel booking app with
 user accounts, price calculation, editing and collision detection.
 
+Live version on Jetbrains Academy can be found [here](https://plugins.jetbrains.com/plugin/34873-lakeview-hotel-flask-jinja-and-sqlite-booking-system)
+
 | Module | Title | Covers |
 |---|---|---|
 | 1 | Getting Started with Flask | Routes, URL variables, 404s, project structure, local Git |
